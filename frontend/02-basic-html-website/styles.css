@@ -1,0 +1,201 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Poppins", Times, serif;
+    background-color: #ffffff;
+    color: #333;
+}
+
+.container {
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    min-width: none;
+    max-width: 1000px;
+    display: block;
+    border: 1px solid black;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    height: 5vh;
+}
+
+.navbar__list {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    list-style-type: none;
+}
+
+.navbar__list--item a {
+    text-decoration: none;
+    color: black;
+}
+
+.hero {
+    padding-bottom: 80px;
+    text-align: center;
+}
+
+/* Main Grid */
+
+.main {
+    display: grid;
+    justify-content: center;
+    grid-template-rows: repeat(2);
+    grid-template-columns: repeat(3, auto);
+}
+
+.projects {
+    border: 1px solid black;
+    grid-row: 1 / 4;
+    grid-column: 1;
+}
+
+.experience {
+    height: 200px;
+    border: 1px solid black;
+    margin: auto 0;
+    grid-row: 1 / 2;
+    grid-column: 2;
+}
+
+.contributions {
+    height: 200px;
+    border: 1px solid black;
+    grid-row: 3 / 4;
+    grid-column: 2;
+}
+
+.education {
+    border: 1px solid black;
+    grid-row: 1 / 4 ;
+    grid-column: 3;
+}
+
+/* End of Main Grid */
+
+/* Sections */
+
+.projects {
+    padding: 0px;
+}
+
+.projects__title {
+    padding: 20px;
+}
+
+.projects__list {
+    padding: 0;
+    list-style-type: none;
+}
+
+.projects__list--item {
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+
+.projects__list--item:last-child {
+    border: none;
+}
+
+.experience {
+    padding: 20px;
+}
+
+.experience__list{
+    list-style-type: none;
+    padding-top: 20px;
+    font-family: cursive;
+}
+
+.experience__description {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.contributions {
+    padding: 20px;
+}
+
+.contributions__description {
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.education {
+    padding: 20px;
+}
+
+.education__description {
+    padding: 20px 0;
+}
+
+.education__list--title {
+    padding-bottom: 20px;
+}
+
+.education__list {
+    list-style-type: none;
+}
+
+.education__list--item::before {
+    content: "- ";
+}
+
+/* End of Sections */
+
+/* Footer */
+
+.footer {
+    padding: 60px 60px 0 60px;
+    text-align: center;
+}
+
+.reviews__title {
+    text-align: left;
+}
+
+.reviews {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.reviews__card {
+    text-align: left;
+    border: 2px solid black;
+    border-radius: 50px;
+    height: 200px;
+    width: 300px;
+}
+
+.reviews__description {
+    padding: 0 20px;
+    padding-top: 30px;
+}
+
+.reviews__author {
+    padding: 0px 20px;
+    padding-top: 10px;
+    color: rgb(172, 172, 172);
+}
+
+.footer__copyright {
+    padding: 50px 0 40px 0;
+}
+
+/* End of Footer */
+
+/* Some Adjustments */
+
+.linkto {
+    text-decoration: none;
+}
