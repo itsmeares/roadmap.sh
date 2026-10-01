@@ -20,7 +20,7 @@ Welcome to my projects for roadmap.sh, below you can find the navigation for pro
   --
 
 - [Number Checker](/javascript/number-checker/index.js) for project [Number Checker](https://roadmap.sh/projects/js-number-checker)
---
+  --
 
 ### Disclaimer
 
