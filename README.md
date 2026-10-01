@@ -22,6 +22,9 @@ Welcome to my projects for roadmap.sh, below you can find the navigation for pro
 - [Number Checker](/javascript/number-checker/index.js) for project [Number Checker](https://roadmap.sh/projects/js-number-checker)
   --
 
+- [String Formatter](/javascript/string-formatter/index.js) for project [String Formatter](https://roadmap.sh/projects/js-string-formatter)
+  --
+
 ### Disclaimer
 
 Fictional data used for demonstration purposes only.
