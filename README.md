@@ -28,6 +28,9 @@ Welcome to my projects for roadmap.sh, below you can find the navigation for pro
 - [Price Calculator](/javascript/price-calculator/index.js) for project [Price Calculator](https://roadmap.sh/projects/js-price-calculator)
   --
 
+- [Cart Total Calculator](/javascript/cart-total-calculator/index.js) for project [Cart Total Calculator](https://roadmap.sh/projects/js-cart-total-calculator)
+  --
+
 ### Disclaimer
 
 Fictional data used for demonstration purposes only.
