@@ -14,6 +14,10 @@ Welcome to my projects for roadmap.sh, below you can find the navigation for pro
 ## JavaScript
 
 - [Greeting Builder](/javascript/greeting-builder/index.js) for project [Greeting Builder](https://roadmap.sh/projects/js-greeting-builder)
+  --
+
+- [Temperature Converter](/javascript/temperature-converter/index.js) for project [Temperature Converter](https://roadmap.sh/projects/js-temperature-converter)
+  --
 
 ### Disclaimer
 
