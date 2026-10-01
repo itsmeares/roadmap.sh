@@ -31,6 +31,9 @@ Welcome to my projects for roadmap.sh, below you can find the navigation for pro
 - [Cart Total Calculator](/javascript/cart-total-calculator/index.js) for project [Cart Total Calculator](https://roadmap.sh/projects/js-cart-total-calculator)
   --
 
+- [Grade Report Generator](/javascript/grade-report-generator/index.js) for project [Grade Report Generator](https://roadmap.sh/projects/js-grade-report-generator)
+  --
+
 ### Disclaimer
 
 Fictional data used for demonstration purposes only.
