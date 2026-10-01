@@ -25,6 +25,9 @@ Welcome to my projects for roadmap.sh, below you can find the navigation for pro
 - [String Formatter](/javascript/string-formatter/index.js) for project [String Formatter](https://roadmap.sh/projects/js-string-formatter)
   --
 
+- [Price Calculator](/javascript/price-calculator/index.js) for project [Price Calculator](https://roadmap.sh/projects/js-price-calculator)
+  --
+
 ### Disclaimer
 
 Fictional data used for demonstration purposes only.
