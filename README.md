@@ -11,6 +11,10 @@ Welcome to my projects for roadmap.sh, below you can find the navigation for pro
 - [My Basic HTML Website](/frontend/02-basic-html-website/index.html) for project [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
   --
 
+## JavaScript
+
+- [Greeting Builder](/javascript/greeting-builder/index.js)
+
 ### Disclaimer
 
 Fictional data used for demonstration purposes only.
